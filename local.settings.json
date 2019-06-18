@@ -1,0 +1,11 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "COSMOS_CONNECTIONSTRING": "",
+    "COSMOS_PARTITIONKEY" : "Config",
+    "COSMOS_DATABASENAME" : "testdb002",
+    "JOBDEFINITION_COLLECTIONNAME" : "testcontainer002"
+  }
+}
